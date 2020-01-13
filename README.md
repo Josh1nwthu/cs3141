@@ -1,2 +1,1 @@
-# cs3141
-github assignment 1
+Edit for cs3141 assignment
